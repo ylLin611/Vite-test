@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+stats.html
+build/*.txt
+build/*.js
+yarn.lock
